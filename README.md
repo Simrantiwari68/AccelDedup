@@ -1,6 +1,6 @@
 
 # Project Link
-##https://project-major-client.vercel.app/login
+https://project-major-client.vercel.app/login
 
 # AccelDedup  
 **AccelDedup** is a robust, cloud-based solution designed to address the challenges of data redundancy in storage management. By utilizing cutting-edge deduplication techniques, AccelDedup optimizes data storage, enhances system performance, and reduces costs.  
